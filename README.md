@@ -2,4 +2,4 @@
 
 # Algorithms
 
-Just a collection of algorithms that I implemented during school, university, olympiads, at home, etc..
+Just a collection of al-Khwārizmī that I implemented during school, university, olympiads, at home, etc..
