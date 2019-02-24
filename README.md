@@ -3,3 +3,5 @@
 # Algorithms
 
 Just a collection of al-Khwārizmī that I implemented during school, university, olympiads, at home, etc..
+
+Warning: Some of them are in romanian :scream:
